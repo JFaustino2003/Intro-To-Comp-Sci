@@ -27,6 +27,10 @@ public class Integers {
       System.out.print("Movies sold");
       int moviesSold = 90000000;
       System.out.println(" - " + moviesSold); 
+      System.out.print("Best movie edition");
+      System.out.println(" - Shrek 2");
+      System.out.print("Favorite Character");
+      System.out.println(" - Lord Farquad");
 
       
       

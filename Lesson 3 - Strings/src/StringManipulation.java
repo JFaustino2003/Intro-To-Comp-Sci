@@ -18,6 +18,25 @@ public class StringManipulation {
 		System.out.println("\\\n\\");
 		System.out.println("");
 		System.out.println("I \"love\" \nbooks.");
+		
+		System.out.println("");
+		
+		System.out.println("\"\\\\\\\\\\\\\"");
+		
+		System.out.println("");
+		
+		String x = ("I love books");
+		//Capitalize the word "love" ONLY. 
+		System.out.println(x.substring(2,6).toUpperCase());
+		
+		System.out.println("");
+		
+		System.out.println("All \"good\" men should come to the aid of the country.");
+		
+		System.out.println("");
+		
+		System.out.println("Hello\nHello again");
+		
 	
 
 	}	
