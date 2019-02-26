@@ -7,13 +7,10 @@ public class Strings {
     String name = "Jojojojojojojojojojojojo";
     System.out.println(name + " is a loser");
     
-    String name = "Jojojojojojojojojojojojo";
+    System.out.println(name + " is a loser");
+
     System.out.println(name + " is a loser");
     
-    String name = "Jojojojojojojojojojojojo";
-    System.out.println(name + " is a loser");
-    
-    String name = "Jojojojojojojojojojojojo";
     System.out.println(name + " is a loser");
 	}
 

@@ -37,6 +37,10 @@ public class StringManipulation {
 		
 		System.out.println("Hello\nHello again");
 		
+		System.out.println("a\\b\\c\"d\"");
+		
+		System.out.println("\\t is a tab, \\n is a new line, \\\" prints a \"quote\"");
+		
 	
 
 	}	
